@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Alice';
+  src: url('./assets/font/Alice_in_Wonderland_3.ttf');
+}
+
+body{
+  // font-family: 'Alice';
+  font-size: 18px;
+  
+  main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
